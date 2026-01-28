@@ -1,0 +1,41 @@
+Unique_ID,Name,Gender,Age_When_First_Married,Age_When_First_Divorced,Times_Divorced,Divorce_Reason,Had_Children_Together,Children_Ages,Kept_Contact_After_Divorce,Custody_Arrangement,Happiness_Before_Marriage,Happiness_After_Marriage,Felt_Supported_By_Friends_Family,Advice_For_Others,Biggest_Regret,Would_Marry_Again_Text,Zip_Code,Years_Married,Education_Level,Annual_Income,State_Of_Residence,Urban_or_Rural,Met_Spouse_How,Marriage_Ceremony_Size,Conflict_Frequency,Shared_Interests_Score,Reported_Stress_Level,Therapy_Attendance,Time_Until_Remarried,Moved_To_New_City,Change_In_Income_After_Divorce
+P0082,Fayez,Nonbinary,30,36,2,finances,yes,"5, 8",maybe,split,6,3,no,Don't rush,No regrets,yes,45535,15 years,Bachlor,41k,Penn,Urban,church,small,2 times/month,3,6,no,,no,-18%
+P0005,Jason,male,30,36,2,irreconcilable,yes,4,maybe,split,2,7,no,No regrets,Ignored red flags,nope,33702,~14,Bachelors,146536,NY,Suburban,online,small,10,10,3,yes,never,yes,-6%
+P0041,Michael,Male,30,32,1,other,yes,"16,9",maybe,none,3,10,no,Choose wisely,No regrets,yes,24630,15 years,Bachelors,86k,MD,Urban,vacation,53 people,5 times,5,5,once,,yes,down 9k
+P0070,Hassan,Female,19,21,3,irreconcilable,yes,"5, 8",no,split,5,3,no,Don't rush,Ignored red flags,depends,65020,1 years,HS,"$20,072 ",Virginia,Urban,online,large,often,8,7,once,,yes,down 8k
+P0011,Desiree,Nonbinary,18,26,2,irreconcilable,no,none,no,sole_father,2,8,no,Don't rush,Married too young,maybe,68784,4 years,BS,78k,D.C.,Suburban,online,small,weekly,8,7,yes,1,no,down 3k
+P0046,Ian,Nonbinary,26,34,1,irreconcilable,no,none,maybe,split,5,3,yes,Communicate more,Married too young,Y,39675,3 years,PhD,"$121,734 ",NY,Urban,church,119 people,weekly,1,2,sometimes,10,no,down 6k
+P0071,Harshitha,Nonbinary,18,33,3,irreconcilable,no,none,maybe,split,1,8,yes,Seek counseling,Married too young,definitely,20845,~5,BA,70k,Meryland,Rural,college,small,2 times/month,6,2,no,2,yes,up 8k
+P0067,Selam,Male,28,42,3,incompatibility,yes,4,yes,sole_father,7,7,yes,Wait longer,Not enough communication,definitely,23702,15,HS,54176 USD,NY,Urban,work,large,2 times/month,4,6,yes,,yes,down 8k
+P0048,Thara,Male,24,29,1,finances,yes,"5, 8",no,joint,3,6,yes,Seek counseling,Ignored red flags,depends,68101,6 years,Bachlor,119624 USD,Penn,Suburban,online,264 people,2 times/month,2,7,no,never,yes,up 1k
+P0012,Kashvi,male,28,35,1,finances,yes,"5, 8",no,joint,2,7,yes,No regrets,Ignored red flags,definitely,38689,14,PhD,124k,Penn,Suburban,church,small,10,1,1,once,never,no,-6%
+P0101,Adron,female,20,23,3,other,no,none,sometimes,sole_father,3,6,no,Communicate more,No regrets,50/50,84259,~11,BA,103k,Penn,Rural,church,large,1,2,9,yes,4,yes,up 6k
+P0037,Matthew,Female,33,47,2,abuse,yes,"5, 8",no,joint,9,8,yes,Communicate more,Ignored red flags,yes,75156,6 years,MA,136331,MD,Suburban,church,large,2 times/month,5,2,no,,no,-3%
+P0085,Jason,Male,31,35,1,finances,yes,4 13 9,sometimes,joint,7,2,yes,Communicate more,Married too young,yes,93912,~10,HS,144299,MD,Suburban,online,246,1,7,5,no,never,no,-11%
+P0114,Arlyna,Nonbinary,20,33,2,infidelity,no,none,maybe,split,4,1,yes,Seek counseling,Financial stress,50/50,52585,8 years,HS,106833,New York,Suburban,church,189,1,3,9,no,,yes,down 6k
+P0019,Addison,Nonbinary,20,21,3,other,yes,17,maybe,none,10,1,no,Don't rush,Not enough communication,maybe,40215,~14,BS,22k,Penn,Suburban,online,279 people,1,3,1,once,never,no,down 4k
+P0001,Vanessa,female,18,23,3,abuse,no,none,maybe,none,1,9,no,Wait longer,Financial stress,depends,28231,~2,Bachelors,130952 USD,Virginia,Suburban,online,medium,2 times/month,5,7,yes,9,no,down 4k
+P0073,Joshua,Nonbinary,32,42,3,other,yes,"5, 8",yes,joint,5,5,yes,Communicate more,No regrets,Y,45151,14,HS,27805 USD,DC,Urban,college,76,weekly,7,5,no,,no,up 7k
+P0027,Vanessa,male,30,42,3,incompatibility,no,none,maybe,none,9,5,yes,Seek counseling,No regrets,Y,23046,~8,MA,138k,NY,Rural,online,medium,5 times,9,4,no,never,no,down 5k
+P0106,Semoon,Male,33,41,1,finances,no,none,sometimes,joint,7,10,yes,No regrets,No regrets,definitely,26176,1,Vocational,134838 USD,NY,Suburban,vacation,149,weekly,2,5,no,4,no,down 9k
+P0054,Ebulo,Male,27,30,3,other,yes,9,sometimes,none,4,5,no,Seek counseling,Married too young,Y,41464,6 years,BA,68898,Penn,Rural,online,large,10,7,9,no,8,yes,12%
+P0095,Keturah,female,27,31,1,irreconcilable,yes,"5, 8",no,none,2,5,no,Choose wisely,Ignored red flags,50/50,53040,6,Bachlor,35651,New York,Rural,church,large,2 times/month,4,6,no,9,yes,up 3k
+P0113,Ryan,male,35,48,3,finances,no,none,no,sole_mother,5,7,yes,No regrets,No regrets,depends,61880,11,BS,"$100,727 ",MD,Rural,vacation,large,2 times/month,10,8,yes,,yes,down 9k
+P0013,Taejeong,male,34,45,3,abuse,no,none,maybe,split,8,7,no,No regrets,Not enough communication,depends,92905,2,Bachelors,26218 USD,New York,Suburban,vacation,small,2 times/month,3,6,once,10,no,up 8k
+P0032,Mohitanish,Male,27,35,3,other,yes,"5, 8",sometimes,joint,2,9,yes,Don't rush,Not enough communication,nope,96195,~7,PhD,"$53,623 ",NY,Urban,church,174 people,2 times/month,10,9,no,never,yes,20%
+P0068,Olaoluwa,female,28,38,3,incompatibility,no,none,no,sole_mother,10,6,no,Communicate more,Married too young,Y,39268,6 years,HS,118333,D.C.,Rural,family friend,large,often,9,7,no,never,yes,up 2k
+P0094,Kashvi,Male,34,42,1,irreconcilable,yes,"5, 8",sometimes,sole_father,6,6,no,Choose wisely,No regrets,nope,76369,~1,Bachlor,110k,MD,Urban,online,large,1,5,2,once,9,no,-3%
+P0110,Sriram,Female,30,32,3,abuse,no,none,maybe,sole_father,7,2,yes,Wait longer,Married too young,definitely,35470,13 years,HS,33087 USD,Meryland,Suburban,work,51,2 times/month,2,8,no,,no,-17%
+P0023,Varun,male,35,41,1,other,yes,"5, 8",sometimes,sole_mother,5,8,yes,Seek counseling,Ignored red flags,depends,41187,9,Bachelors,75429 USD,NY,Suburban,family friend,medium,5 times,7,8,sometimes,never,no,down 5k
+P0045,Aditya,Female,26,38,2,infidelity,no,none,maybe,none,1,3,yes,No regrets,Ignored red flags,Y,42561,8 years,Vocational,50678,DC,Urban,online,large,5 times,8,6,once,,yes,up 6k
+P0109,Kevin,Male,27,31,3,irreconcilable,no,none,maybe,sole_father,1,10,no,Communicate more,No regrets,yes,73773,~12,Bachlor,"$39,326 ",NY,Rural,church,small,weekly,8,9,no,,no,down 5k
+P0079,Nicholas,Male,20,24,1,abuse,yes,7,sometimes,sole_father,6,10,no,Don't rush,Financial stress,depends,99073,2,BS,97948 USD,MD,Rural,family friend,97,weekly,7,5,sometimes,never,no,7%
+P0016,Jordan,female,20,25,3,irreconcilable,no,none,no,none,2,6,no,Don't rush,Not enough communication,definitely,66470,14 years,Vocational,130251 USD,VA,Rural,family friend,medium,weekly,5,4,no,,yes,up 8k
+P0031,Aditya,Male,24,36,3,incompatibility,no,none,maybe,sole_father,4,5,no,Communicate more,Not enough communication,nope,53868,15 years,MA,134k,Virginia,Rural,family friend,large,2 times/month,4,10,yes,,no,down 9k
+P0084,Megan,female,27,41,1,infidelity,yes,"15,8",maybe,split,4,7,yes,Don't rush,No regrets,maybe,87925,15 years,Vocational,29434,NY,Rural,online,large,2 times/month,8,6,sometimes,never,no,-1%
+P0010,Desiree,Nonbinary,22,30,2,incompatibility,yes,"5, 8",maybe,none,5,10,yes,Communicate more,Not enough communication,Y,98487,5 years,Bachelors,"$97,421 ",Maryland,Rural,college,80 people,10,3,10,yes,never,yes,down 7k
+P0034,Harshitha,Nonbinary,22,32,3,irreconcilable,no,none,maybe,sole_father,4,8,yes,Choose wisely,Financial stress,yes,59478,7,PhD,"$114,585 ",Meryland,Urban,family friend,medium,weekly,9,3,sometimes,10,yes,10%
+P0063,Betanya,Female,23,33,1,infidelity,no,none,sometimes,joint,2,1,no,Wait longer,No regrets,nope,31211,10,PhD,126274 USD,Maryland,Urban,vacation,255 people,2 times/month,4,6,sometimes,4,no,up 2k
+P0066,Hengmeng,female,18,21,3,abuse,yes,5 11 14,yes,joint,3,5,no,Wait longer,Ignored red flags,maybe,55596,~12,BA,54k,Maryland,Urban,vacation,medium,1,10,7,sometimes,2,no,up 1k
+P0029,Cade,Male,27,33,1,finances,yes,"8,4,3",yes,split,7,7,yes,Communicate more,No regrets,maybe,93042,7 years,MA,121213 USD,NY,Suburban,college,271,1,4,6,yes,8,no,down 8k
+P0043,John,Nonbinary,30,32,1,incompatibility,yes,"5,15",no,split,2,8,no,Choose wisely,Married too young,yes,48184,~2,Bachelors,45141 USD,Maryland,Urban,work,small,weekly,10,6,once,,yes,-20%
